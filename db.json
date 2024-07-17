@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "id": "96a5",
+      "name": "SuganyaV",
+      "email": "suganjo15@gmail.com",
+      "empId": "12SS",
+      "mobile": "7010022672",
+      "jobRole": "ReactJs Developer"
+    },
+    {
+      "id": "05c8",
+      "name": "Saranya",
+      "email": "sarasanju@gmail.com",
+      "empId": " 34SS",
+      "mobile": "9023456789",
+      "jobRole": "Frontend Developer"
+    },
+    {
+      "id": "62dc",
+      "name": "Mathavan",
+      "email": "mathav@gmail.com",
+      "empId": "67MM",
+      "mobile": "9012234567",
+      "jobRole": "ReactJs Developer"
+    },
+    {
+      "id": "7d40",
+      "name": "RaviKumar",
+      "email": "ravi@gmail.com",
+      "empId": "12RR",
+      "mobile": "9012236789",
+      "jobRole": "FullStack Developer"
+    }
+  ]
+}
